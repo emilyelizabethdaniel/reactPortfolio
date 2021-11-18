@@ -9,8 +9,8 @@ function AboutMe() {
                 <h3>
                     About Me 
                 </h3>
-                <img src={profile}alt="profile photo" width="400" height="500" className="center"></img>
-                <p> Web developer. Learning about and engaging with new technologies and languages to further my understanding of web development, particulary in front end design.
+                <img src={profile} alt="profile" width="400" height="500" className="center"></img>
+                <p> Hello, World! My name is Emily Daniel, living in Minneapolis, Minnesota. I am in the early stages of learning web development, and I have a huge passion and drive to learn more. Currently my focus is learing typescript and improving my React skills. I am comfortable in full-stack development, but I have a passion for front end and UI/UX. I am in the midst of multiple projects, including a game app soon to be launched on the app store! I would love to work on any projects you might have in mind! Check out my contact page to reach me!
                 </p>
                 
                 <ul>
