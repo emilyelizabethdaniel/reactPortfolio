@@ -1,8 +1,23 @@
-h2{
+/* h2{
      color: #88a3ff
 }
 h2::first-letter {
     color: #3763ff;
     font-family: serif;
     font-size: 125%;
-}
+} */
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+  }
+
+  ul {
+    text-align: center;
+    }
+    
+    li {
+    display: inline-block;
+    }
