@@ -1,16 +1,16 @@
 import './App.css';
 import Header from './components/Header';
-import Navigation from './components/Navigation';
-import Work from './components/Work';
-
+import PortfolioContainer from './components/PortfolioContainer';
+import Footer from './components/Footer';
 
 function App() {
   return (
     <>
-    <Header></Header>
-    <Navigation></Navigation>
-    <Work></Work>
+    <Header />
+    <PortfolioContainer />
+    <Footer />
     </>
+
   );
 }
 

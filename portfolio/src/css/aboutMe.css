@@ -1,0 +1,8 @@
+h2{
+     color: #88a3ff
+}
+h2::first-letter {
+    color: #3763ff;
+    font-family: serif;
+    font-size: 125%;
+}

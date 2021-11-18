@@ -10,11 +10,22 @@ header {
 h1{
     text-align: center;
     font-size: 200px;
-    color:#f38387;    
+    color:#f38387;
+    font-family: 'Nunito Sans', sans-serif;    
 }
 
 h1::first-letter{
     color: #ce3375;
     font-size: 200%; 
     font-family: serif;
+}
+p{
+    font-family: 'Nunito Sans', sans-serif;
+    text-align: center;
+}
+
+h3 { 
+    font-family: 'Nunito Sans', sans-serif;
+    text-align: center;
+    color: #ce3375;
 }
