@@ -2,9 +2,7 @@ img{
     text-align: center;
     margin: 20px;
 }
-img:hover{
-    opacity: 50%;
-}
+
 a{ 
     text-align: center;
     text-transform: uppercase;
